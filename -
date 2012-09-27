@@ -1,0 +1,11 @@
+--2012-09-27 10:13:52--  http://linux.desktop.sensiolabs.org/ubuntu/sensiolabs.key
+Resolving linux.desktop.sensiolabs.org... 54.240.188.148, 54.240.188.128, 54.240.188.154, ...
+Connecting to linux.desktop.sensiolabs.org|54.240.188.148|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1735 (1.7K) [application/pgp-keys]
+Saving to: `sensiolabs.key'
+
+     0K .                                                     100% 7.09M=0s
+
+2012-09-27 10:14:03 (7.09 MB/s) - `sensiolabs.key' saved [1735/1735]
+
